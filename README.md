@@ -17,7 +17,7 @@ Submitted by: **Daniel Yoo**
 
 Here's a walkthrough of implemented user stories:
 
-![Alt Text](https://github.com/desyoo/TopGames/top_game.gif)
+Check top_game.gif
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
