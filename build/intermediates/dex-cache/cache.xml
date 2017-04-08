@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/desy/Documents/Android2017/MyTopTwitch/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70189fa7032fb9f09f9239202a622d43de5aeb57">
+        <dex dex="/Users/desy/Documents/Android2017/MyTopTwitch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9fef4d7049777fe0f9c0e0a6ebc5bfbe741c83dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/desy/Documents/Android2017/MyTopTwitch/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/desy/Documents/Android2017/MyTopTwitch/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f11bb2c60a954e59fbe8b7da302a9e77981e96fc/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Top50Games</string>
+    <string name="game_list_activity_title">Top 50 Games</string>
+    <string name="action_settings">Settings</string>
+    <string name="game_empty_card_message">Check Your Internet Connection.</string>
+    <string name="game_empty_reload">Reload</string>
+
+    <!-- Game Details -->
+    <string name="game_details_activity_title">Detail</string>
+    <string name="game_details_active_channels">Channel:</string>
+    <string name="game_details_views">Views:</string>
+    <string name="game_details_box">Image</string>
+    <string name="game_list_error_offline">Error Authentication - Offline</string>
+</resources>
